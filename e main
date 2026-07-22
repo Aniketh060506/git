@@ -1,0 +1,29 @@
+*   [33ma1dbd97[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mnew[m[33m, [m[1;31morigin/new[m[33m, [m[1;31morigin/HEAD[m[33m)[m wqMerge remote-tracking branch 'refs/remotes/origin/new' into new
+[31m|[m[32m\[m  
+[31m|[m * [33m9e8dbfa[m Fix SQL injection command in 0_cmd file
+* [32m|[m [33mf5fde54[m hj
+[32m|[m[32m/[m  
+* [33m8662355[m Create newme
+* [33m10b79b5[m e
+*   [33m83d4765[m Merge remote-tracking branch 'refs/remotes/origin/new' into new
+[33m|[m[34m\[m  
+[33m|[m * [33m8e453ae[m Add new content to the file
+* [34m|[m [33m1d9b110[m wedjh
+[35m|[m[34m\[m[34m|[m 
+[35m|[m * [33md3f1f1a[m Add 'hello' to the new file
+* [36m|[m [33md396599[m wedjh
+[36m|[m[36m/[m  
+* [33m54c2f0a[m Add new file with greeting text
+*   [33mcf1542c[m Merge pull request #2 from Aniketh060506/feature
+[1;31m|[m[1;32m\[m  
+[1;31m|[m * [33md54106e[m[33m ([m[1;31morigin/feature[m[33m)[m Add files via upload
+[1;31m|[m[1;31m/[m  
+[1;31m|[m * [33m688192f[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m Create asq
+[1;31m|[m *   [33mf64af5a[m[33m ([m[1;31morigin/switch[m[33m, [m[1;32mswitch[m[33m)[m Merge pull request #1 from Aniketh060506/new
+[1;31m|[m [1;34m|[m[1;31m\[m  
+[1;31m|[m [1;34m|[m[1;31m/[m  
+[1;31m|[m[1;31m/[m[1;34m|[m   
+* [1;34m|[m [33mdf5c10b[m Add greeting text to file
+[1;34m|[m[1;34m/[m  
+* [33m227cc6e[m Add second commit message to README
+* [33m2289823[m Initial commit
